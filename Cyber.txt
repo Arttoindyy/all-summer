@@ -1,0 +1,37 @@
+
+cyber security and web security
+
+Devsecops  
+ คือ กระบวนการกับระบบที่ช่วยทีม Development  กับทีม Operetions มาทำงสานร่วมกันอย่างแน่นแฟ้น
+
+คำว่า Sec , Security ที่เพิ่มเข้ามาอยุ่ตรงกลาง เพื่่อใส่เรื่องความปลอดถัยเข้าไปในกระบสนการ Automation โดย Devsecops ก็คือการเพิ่มมกระบวนการกับระบบของทีม Sucurity เช้ามาแจมกับทีม
+ Dev และทีม dOperations ก่แนหน้าที่ใน Devops 
+
+
+การนำ SEC มาคั่นระหว่าง DEV กับ ops
+- การทํา Dynamic Application Security Testing (DAST)
+อัตโนมัติ
+
+- การสแกนค้นหาช่องโหว่ด้วยโปรแกรม Vulnerability
+Assessment (VA)
+
+- ตัวอย่างโปรแกรมเช่น OpenVAS, nuclei, OWASP
+ZAP, Dastardly
+
+***  Vulnerability Assessment ***   VA 
+
+1. Functional Requirement
+2. Non-Funtional Requirement
+
+*********** การทำ Vulnerability Assessment < VA > *************
+
+******************************************************************************************************
+
+04 / 04 / 67   บริษัท ( Symphony )
+
+Cyber security Topic บริษัทบริการเครือข่ายความเร็วสูง เข้า  ISO // ICE ให้บริการในประเทศ  ที่ได้มาตรฐาน
+
+DDos 
+
+
+

@@ -1,0 +1,13 @@
+
+1. Install : setup.exe
+  -> Do not start program after install. 
+
+2. Go to " Crack  " folder ---> Choose 32-bit or 64-bit
+
+ -> Copy " netscan.exe " file to :
+
+	C:\Program Files\SoftPerfect Network Scanner
+
+3. Use serial from " key.txt " to register.
+
+4. Done
